@@ -1,0 +1,8 @@
+{
+  "version": "1.18.7",
+  "game_url": "https://github.com/MechoGT/brainwash-heist-updates/releases/download/v1.18.7/BRAINWASH_HEIST_1_18_7.exe",
+  "game_sha256": "80f38921539ed6357696309ffb723ecd0c6c3486c6e2c9dc3c4d8ecda820cbb2",
+  "server_url": "https://github.com/MechoGT/brainwash-heist-updates/releases/download/v1.18.7/BRAINWASH_HEIST_SERWER_1_18_7.exe",
+  "server_sha256": "ec851a490008036911e841ee07467bcc37130a18339e712b5e37dc6b2ed8362d",
+  "signature": "9C+nIs51VqX3oP3N9Tle5sLU6HFhSNM/VA78DtvaqzVTuxVuLVYH/Sk+N9n7pnMsstvstgu4sVUWSDc6KlxxCQ=="
+}
